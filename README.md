@@ -1,6 +1,6 @@
 # News App Frontend
 
-This is a frontend application for a news app built with React and styled using Tailwind CSS. The application fetches news articles from various sources and displays them in an organized manner, allowing users to browse through different categories and topics.
+This is a frontend application for a news app built with **Vite** and styled using **Tailwind CSS**. The application fetches news articles from various sources and displays them in an organized manner, allowing users to browse through different categories and topics.
 
 ## Features
 
@@ -23,4 +23,17 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/negi-007/NewsAppFrontend.git
+   ```
+2. **Navigate to Project Directory**
+   ```bash
+   cd news-app-frontend
+   ```
+3. **Install Dependencies**
+   ```bash
+   npm install
+   ```
+4. **Start the Development Server**
+   ```bash
+   npm run dev
+   ```
